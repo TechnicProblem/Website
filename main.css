@@ -16,7 +16,9 @@ a:hover {
     color: #D3D3D3;
 }
 
-a3 {
-    font-family: "Tahoma", Geneva, sans-serif;
-    color: #1E90FF;
+div {
+   width: 300px;
+   border: 25px solid green;
+   padding: 25px;
+   margin: 25px;
 }
