@@ -38,9 +38,16 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: LightGrey;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 li a:hover {
+    background-color: LimeGreen;
+}
+
+.active {
     background-color: LimeGreen;
 }
 
