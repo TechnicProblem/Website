@@ -2,6 +2,6 @@ body {
     background-color: WhiteSmoke;
 }
 
-p {
+p, h5 {
     font-family: "Tahoma", Geneva, sans-serif;
 }
