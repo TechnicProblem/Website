@@ -38,8 +38,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: LightGrey;
-  position: fixed;
-  top: 0;
   width: 100%;
 }
 
