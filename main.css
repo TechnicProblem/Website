@@ -39,6 +39,7 @@ ul {
   overflow: hidden;
   background-color: LightGrey;
   width: 100%;
+  font-family: "Tahoma", Geneva, sans-serif;
 }
 
 li a:hover {
@@ -55,3 +56,4 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: "Tahoma", Geneva, sans-serif;
